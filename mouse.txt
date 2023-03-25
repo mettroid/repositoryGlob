@@ -1,1 +1,2 @@
  создал файл mouse в main loc
+ добавил строку из fix loc
